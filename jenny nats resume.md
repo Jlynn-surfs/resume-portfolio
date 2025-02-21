@@ -1,6 +1,6 @@
 
 <h1 style="display: flex; align-items: center;">
-    <img src="Cropped_image2.jpeg" alt="Image" width="150" style="margin-right: 20px;">
+    <img src="cropped_image2.jpeg" alt="Image" width="150" style="margin-right: 20px;">
     Jenny Nats-Technical Writer
 </h1>
 
