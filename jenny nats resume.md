@@ -1,7 +1,7 @@
 
-<h1 style="display: flex; align-items: center;">
+<h1 style="display: flex; align-items: flex-start;">
     <img src="cropped_image2.jpeg" alt="Image" width="150" style="margin-right: 20px;">
-    Jenny Nats-Technical Writer
+    Jenny Nats - Technical Writer
 </h1>
 
 ## Summary
