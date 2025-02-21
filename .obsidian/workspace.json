@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "39b99c62e95d50a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "19dffac4fff7decb",
+        "type": "tabs",
+        "dimension": 75.96153846153847,
+        "children": [
+          {
+            "id": "01cc61f76606f430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
+          },
+          {
+            "id": "bc6f4c60623a7213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resume.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "resume"
+            }
+          },
+          {
+            "id": "43c2d8a68562e884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resume.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "resume"
+            }
+          },
+          {
+            "id": "bddfb2759884eb4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readme"
+            }
+          },
+          {
+            "id": "b06232f315f7dd77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jenny nats resume.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "jenny nats resume"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "636aa8ebdc23cd52",
+        "type": "tabs",
+        "dimension": 24.03846153846154,
+        "children": [
+          {
+            "id": "52790f91892520f1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "089be68ad3082a9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ac14796852edbca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b07cf450b1db2de4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e801c72620d7a77a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Jenny",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "48ae33f71c9fc780",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c9d4ef70d60e32bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c61d0c5525ca1095",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd873bf3732f5c7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "jenny nats resume.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for jenny nats resume"
+            }
+          },
+          {
+            "id": "40b71612cb06184a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from test"
+            }
+          },
+          {
+            "id": "1d13ee175cc41a11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f1a00f8e3f4c0a79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "test.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of test"
+            }
+          },
+          {
+            "id": "8b6ae9b4cac789a1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "b06232f315f7dd77",
+  "lastOpenFiles": [
+    "resume.md",
+    "jenny nats resume.md",
+    "portfolio.md",
+    "samples/AllegroMX_UserGuide.pdf",
+    "cropped_image2.jpeg",
+    "cropped_image.jpg",
+    "readme.md",
+    "www.linkedin.com/in/jenny-nats-371462287.md",
+    "www.linkedin.com/in",
+    "www.linkedin.com",
+    "resume_photo.jpeg",
+    "small_photo.jpeg",
+    "small_photo 1.jpeg",
+    "IMG_5131 1.jpeg",
+    "IMG_5131.jpeg",
+    "Education.md",
+    "samples/Bitrefinery Operations Manual Sample.pdf",
+    "samples/Bit Refinery Case study.pdf",
+    "samples",
+    "untitled folder",
+    "Welcome.md",
+    "test.md"
+  ]
+}
