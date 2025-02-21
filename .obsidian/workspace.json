@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "resume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "resume"
             }
           },
           {
@@ -256,13 +256,14 @@
   },
   "active": "b06232f315f7dd77",
   "lastOpenFiles": [
+    "readme.md",
     "resume.md",
     "jenny nats resume.md",
+    "FETCH_HEAD",
     "portfolio.md",
     "samples/AllegroMX_UserGuide.pdf",
     "cropped_image2.jpeg",
     "cropped_image.jpg",
-    "readme.md",
     "www.linkedin.com/in/jenny-nats-371462287.md",
     "www.linkedin.com/in",
     "www.linkedin.com",
