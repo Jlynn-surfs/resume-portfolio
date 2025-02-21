@@ -1,8 +1,15 @@
 
-<h1 style="display: flex; align-items: flex-start;">
-    <img src="cropped_image2.jpeg" alt="Image" width="150" style="margin-right: 20px;">
-    Jenny Nats - Technical Writer
-</h1>
+<table>
+    <tr>
+        <td style="vertical-align: top;">
+            <img src="cropped_image2.jpeg" alt="Image" width="150">
+        </td>
+        <td style="vertical-align: top; padding-left: 20px;">
+            <h1>Jenny Nats - Technical Writer</h1>
+        </td>
+    </tr>
+</table>
+
 
 ## Summary
 Creative and resourceful technical writer skilled in creating clear, effective documentation. Experienced in researching complex topics, collaborating with cross-functional teams, and transforming technical concepts into user-friendly materials. 
