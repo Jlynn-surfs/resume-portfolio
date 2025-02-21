@@ -32,11 +32,11 @@ Creative and resourceful technical writer skilled in creating clear, effective d
 **Documentation Tools:** Microsoft Office Suite, Google docs, Markdown, Obsidian,  FrameMaker, RoboHelp,
 **Version Control:** Git, GitHub 
 
-| Project Name                   | Screenshot                                   |     |     |
-| ------------------------------ | -------------------------------------------- | --- | --- |
-| Allegro User Guide             | [[samples/AllegroMX_UserGuide.pdf]]                  |     |     |
-| Bit Refinery Operations Manual | [[Bitrefinery Operations Manual Sample.pdf]] |     |     |
-| Bit Refinery Case Study        | [[Bit Refinery Case study.pdf]]              |     |     |
+| Project Name                   | Screenshot |     |     |
+| ------------------------------ | ---------- | --- | --- |
+| Allegro User Guide             | [AllegroMX User Guide](samples/AllegroMX_UserGuide.pdf) |     |     |
+| Bit Refinery Operations Manual | [Bit Refinery Operations Manual](Bitrefinery%20Operations%20Manual%20Sample.pdf) |     |     |
+| Bit Refinery Case Study        | [Bit Refinery Case Study](Bit%20Refinery%20Case%20study.pdf) |     |     |
 
 ---
 ## Contact Information
