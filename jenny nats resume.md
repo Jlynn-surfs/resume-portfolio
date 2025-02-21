@@ -34,7 +34,7 @@ Creative and resourceful technical writer skilled in creating clear, effective d
 
 | Project Name                   | Screenshot                                   |     |     |
 | ------------------------------ | -------------------------------------------- | --- | --- |
-| Allegro User Guide             | [[AllegroMX_UserGuide.pdf]]                  |     |     |
+| Allegro User Guide             | [[samples/AllegroMX_UserGuide.pdf]]                  |     |     |
 | Bit Refinery Operations Manual | [[Bitrefinery Operations Manual Sample.pdf]] |     |     |
 | Bit Refinery Case Study        | [[Bit Refinery Case study.pdf]]              |     |     |
 
