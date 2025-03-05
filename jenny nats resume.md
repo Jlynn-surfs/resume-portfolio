@@ -34,7 +34,7 @@ Creative and resourceful technical writer and proposal writer skilled in craftin
 
 | Project Name                   | Screenshot                                   |     |     |
 | ------------------------------ | -------------------------------------------- | --- | --- |
-| Allegro User Guide             | [(AllegroMX_UserGuide.pdf)]                  |     |     |
+| Allegro User Guide             | [bla](AllegroMX_UserGuide.pdf)                  |     |     |
 | Bit Refinery Operations Manual | [[Bitrefinery Operations Manual Sample.pdf]] |     |     |
 | Bit Refinery Case Study        | [[Bit Refinery Case study.pdf]]              |     |     |
 | Bit Refinery Business Proposal | [[Bit Refinery Business Proposal.pdf]]       |     |     |
