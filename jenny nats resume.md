@@ -1,23 +1,16 @@
 
-<table>
-    <tr>
-        <td style="vertical-align: top;">
-            <img src="cropped_image2.jpeg" alt="Image" width="150">
-        </td>
-        <td style="vertical-align: top; padding-left: 20px;">
-            <h1>Jenny Nats - Technical Writer</h1>
-        </td>
-    </tr>
-</table>
-
+<h1 style="display: flex; align-items: center;">
+    <img src="Cropped_image2.jpeg" alt="Image" width="150" style="margin-right: 20px;">
+    Jenny Nats-Proposal and Technical Writer
+</h1>
 
 ## Summary
-Creative and resourceful technical writer skilled in creating clear, effective documentation. Experienced in researching complex topics, collaborating with cross-functional teams, and transforming technical concepts into user-friendly materials. 
+Creative and resourceful technical writer and proposal writer skilled in crafting clear, effective documentation and persuasive proposals. Experienced in researching complex topics, collaborating with cross-functional teams, and transforming technical concepts and strategic ideas into user-friendly, impactful materials.
 
 ## 💼 Experience
-### 🛠 Technical Writer | Bit Refinery/Bare-Metal.io.
+### 🛠 Proposal and Technical Writer | Bit Refinery/Bare-Metal.io.
 *Nov 2022 – Present*
-- Lead writer on technical specifications, troubleshooting guides, and operation manuals.
+- Lead writer on technical specifications, proposals, troubleshooting guides, and operation manuals.
 - Worked closely with subject matter experts to create a standard operations manual.
 - Incorporated diagrams, flow charts, and screenshots to enhance understanding of complex concepts.
 ### ✍️ Homeschool teacher
@@ -39,11 +32,13 @@ Creative and resourceful technical writer skilled in creating clear, effective d
 **Documentation Tools:** Microsoft Office Suite, Google docs, Markdown, Obsidian,  FrameMaker, RoboHelp,
 **Version Control:** Git, GitHub 
 
-| Project Name                   | Screenshot |     |     |
-| ------------------------------ | ---------- | --- | --- |
-| Allegro User Guide             | [AllegroMX User Guide](samples/AllegroMX_UserGuide.pdf) |     |     |
-| Bit Refinery Operations Manual | [Bit Refinery Operations Manual](Bitrefinery%20Operations%20Manual%20Sample.pdf) |     |     |
-| Bit Refinery Case Study        | [Bit Refinery Case Study](Bit%20Refinery%20Case%20study.pdf) |     |     |
+| Project Name                   | Screenshot                                   |     |     |
+| ------------------------------ | -------------------------------------------- | --- | --- |
+| Allegro User Guide             | [[AllegroMX_UserGuide.pdf]]                  |     |     |
+| Bit Refinery Operations Manual | [[Bitrefinery Operations Manual Sample.pdf]] |     |     |
+| Bit Refinery Case Study        | [[Bit Refinery Case study.pdf]]              |     |     |
+| Bit Refinery Business Proposal | [[Bit Refinery Business Proposal.pdf]]       |     |     |
+| RFP Sample                     | [[RFP Sample.pdf]]                           |     |     |
 
 ---
 ## Contact Information
