@@ -35,10 +35,10 @@ Creative and resourceful proposal and technical writer skilled in crafting clear
 | Project Name                   | Screenshot                                   |     |     |
 | ------------------------------ | -------------------------------------------- | --- | --- |
 | Allegro User Guide             | [AllegroMX_UserGuide.pdf](samples/AllegroMX_UserGuide.pdf)                  |     |     |
-| Bit Refinery Operations Manual | [Bitrefinery Operations Manual Sample.pdf](Bitrefinery%20Operations%20Manual%20Sample.pdf) |     |     |
-| Bit Refinery Case Study        | [Bit Refinery Case study.pdf](samples/Bit Refinery Case study.pdf)             |     |     |
-| Bit Refinery Business Proposal | [Bit Refinery Business Proposal.pdf](samples/Bit Refinery Business Proposal.pdf)      |     |     |
-| RFP Sample                     | [RFP Sample.pdf](samples/RFP Sample.pdf)                          |     |     |
+| Bit Refinery Operations Manual | [Bitrefinery Operations Manual Sample.pdf](samples/BitrefineryOperationsManual.pdf) |     |     |
+| Bit Refinery Case Study        | [Bit Refinery Case study.pdf](samples/BitRefineryCasestudy.pdf)             |     |     |
+| Bit Refinery Business Proposal | [Bit Refinery Business Proposal.pdf](samples/BitRefineryBusinessProposal.pdf)      |     |     |
+| RFP Sample                     | [RFP Sample.pdf](samples/RFPSample.pdf)                          |     |     |
 
 ---
 ## Contact Information
