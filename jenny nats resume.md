@@ -5,7 +5,7 @@
 </h1>
 
 ## Summary
-Creative and resourceful technical writer and proposal writer skilled in crafting clear, effective documentation and persuasive proposals. Experienced in researching complex topics, collaborating with cross-functional teams, and transforming technical concepts and strategic ideas into user-friendly, impactful materials.
+Creative and resourceful proposal and technical writer skilled in crafting clear, effective documentation and persuasive proposals. Experienced in researching complex topics, collaborating with cross-functional teams, and transforming technical concepts and strategic ideas into user-friendly, impactful materials.
 
 ## 💼 Experience
 ### 🛠 Proposal and Technical Writer | Bit Refinery/Bare-Metal.io.
