@@ -1,6 +1,8 @@
 
 <h1 style="display: flex; align-items: center;">
+    <center>
     <img src="cropped_image2.jpeg" alt="Image" width="150" style="margin-right: 20px;">
+    <br>
     Jenny Nats-Proposal and Technical Writer
 </h1>
 
